@@ -1,2 +1,1 @@
-alpine
-cyberbolt/baota
+btpanel/baota:latest
