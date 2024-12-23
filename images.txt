@@ -1,1 +1,1 @@
-btpanel/baota:lib
+ btpanel/baota:latest
